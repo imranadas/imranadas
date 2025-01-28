@@ -22,28 +22,67 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 The Humanoid Project</h3>
+      <h3>🌍 CE712 Predictive Land Use Remote Sensing</h3>
       <div align="center">
-        <p><strong>AI & Perception Lead</strong></p>
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-        <p>• YOLOv8 book detection (95% mAP)<br>• Real-time perception pipeline<br>• Team of 20+ members</p>
+        <p><strong>Land Use Prediction</strong></p>
+        <a href="https://github.com/imranadas/CE712_Predictive_Land_Use_Remote_Sensing"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+        <p>• Geospatial data analysis<br>• Urban planning predictions<br>• Predictive analytics</p>
       </div>
     </td>
     <td width="50%">
-      <h3>👁️ Computer Vision Portfolio</h3>
+      <h3>🩺 Clinical Bias Detection & Debiasing</h3>
       <div align="center">
-        <p><strong>PyTorch Projects</strong></p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-        <p>• Cancer cell segmentation (IoU: 70%)<br>• MNIST classification (93% acc)<br>• Transfer learning projects</p>
+        <p><strong>Ethical AI in Healthcare</strong></p>
+        <a href="https://github.com/imranadas/Clinical_BiasDetection_Debiasing"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+        <p>• Detects biases in clinical datasets<br>• Ensures fairness in healthcare AI<br>• Advanced data preprocessing</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 MLP-Scratch</h3>
+      <div align="center">
+        <p><strong>Neural Network Basics</strong></p>
+        <a href="https://github.com/imranadas/MLP-Scratch"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+        <p>• Multi-Layer Perceptron from scratch<br>• Gradient descent implementation<br>• Hands-on neural networks</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3>🖼️ PyTorch Segmentation</h3>
+      <div align="center">
+        <p><strong>Image Segmentation</strong></p>
+        <a href="https://github.com/imranadas/PyTorch_Segmentation"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+        <a href="https://github.com/imranadas/PyTorch_Segmentation"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+        <p>• High IoU on custom datasets<br>• Semantic segmentation pipelines<br>• Medical imaging use cases</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Simple Password Manager</h3>
+      <div align="center">
+        <p><strong>Secure Credential Storage</strong></p>
+        <a href="https://github.com/imranadas/simple_pw_manager"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+        <p>• Password encryption<br>• File handling for storage<br>• Lightweight and efficient</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3>🤖 The Humanoid Project: VisionStack</h3>
+      <div align="center">
+        <p><strong>Real-Time Perception</strong></p>
+        <a href="https://github.com/imranadas/The-Humanoid-Project/tree/main/VisionStack"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="https://github.com/imranadas/The-Humanoid-Project/tree/main/VisionStack"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+        <p>• YOLO-based object detection<br>• Real-time vision capabilities<br>• Team collaboration of 20+</p>
       </div>
     </td>
   </tr>
 </table>
+
 
 ## 💻 Tech Stack
 
