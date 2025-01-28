@@ -180,3 +180,33 @@ gaming_profiles = {
     "Riot Games": "EntropYgg #FRAGR",
     "Snapchat": "imranadas"
 }
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rana-das-93a773191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/im_rana_das"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/rana.das.231102"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/aloagnm26yso1g4b6kvfbjvdq"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imranadas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎯 Profile Visits
+![](https://profile-counter.glitch.me/imranadas/count.svg)
+
+### ⭐️ From [imranadas](https://github.com/imranadas)
+</div>
+
+<!--
+Fun Facts:
+- 🎮 Avid gamer and tech enthusiast
+- 🤖 Working on making robots more human-like
+- 🌱 Always learning new technologies
+- 📚 Love to share knowledge and mentor others
+-->
