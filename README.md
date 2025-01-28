@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-### I'm Rana Das | AI/ML Lead @ The Humanoid Project
+### I'm Rana Das | AI/ML Lead @ The Humanoid Project | Pre-Final Year B.Tech Student @IIT-B
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;Robotics+Enthusiast;B.Tech+@+IIT+Bombay)](https://git.io/typing-svg)
 
