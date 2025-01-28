@@ -179,25 +179,31 @@
   </tr>
 </table>
 
-### Gaming Profiles
+## 🎮 Gaming Profiles
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Steam: entropy_gg</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/CS2-Active-success?style=flat&logo=counter-strike&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VAC-Clean-success?style=flat&logo=steam&logoColor=white"/>
-      </div>
+    <td align="center" width="50%">
+      <h3>🚀 Steam: <a href="https://steamcommunity.com/id/entropy_gg" target="_blank">entropy_gg</a></h3>
+      <a href="https://steamcommunity.com/id/entropy_gg" target="_blank">
+        <img src="https://img.shields.io/badge/CS2-Active-success?style=for-the-badge&logo=counter-strike&logoColor=white"/>
+      </a>
+      <a href="https://steamcommunity.com/id/entropy_gg" target="_blank">
+        <img src="https://img.shields.io/badge/VAC-Clean-success?style=for-the-badge&logo=steam&logoColor=white"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Riot: EntropYgg #FRAGR</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/VALORANT-Active-success?style=flat&logo=riot-games&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TFT-Casual-yellow?style=flat&logo=riot-games&logoColor=white"/>
-      </div>
+    <td align="center" width="50%">
+      <h3>🔥 Riot: <a href="https://tracker.gg/valorant/profile/riot/EntropYgg%23FRAGR/overview" target="_blank">EntropYgg#FRAGR</a></h3>
+      <a href="https://tracker.gg/valorant/profile/riot/EntropYgg%23FRAGR/overview" target="_blank">
+        <img src="https://img.shields.io/badge/VALORANT-Active-success?style=for-the-badge&logo=riot-games&logoColor=white"/>
+      </a>
+      <a href="https://tracker.gg/valorant/profile/riot/EntropYgg%23FRAGR/overview" target="_blank">
+        <img src="https://img.shields.io/badge/TFT-Casual-yellow?style=for-the-badge&logo=riot-games&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
