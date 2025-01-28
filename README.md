@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranadas&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
-## 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imranadas&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🎵 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq)
-
 ## 🚀 Featured Projects
 
 <table>
@@ -51,8 +45,50 @@
   </tr>
 </table>
 
-## 💻 Hardware Setup
+## 💻 Tech Stack
 
+### Languages & Core Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
+</p>
+
+### Development Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Cloud & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+## 📈 GitHub Analytics
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranadas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imranadas&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🎵 Now Playing
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq)
+
+## 🎮 Gaming & Setup
+
+### Hardware Specifications
 <table>
   <tr>
     <td><strong>Category</strong></td>
@@ -104,8 +140,7 @@
   </tr>
 </table>
 
-## 🎮 Gaming Profile
-
+### Gaming Profiles
 <table>
   <tr>
     <td width="50%">
@@ -124,50 +159,6 @@
     </td>
   </tr>
 </table>
-
-## 💻 Tech Stack
-
-<details>
-<summary>🔧 Languages & Core Tools</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
-</p>
-</details>
-
-<details>
-<summary>🛠️ Development Environment</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-</details>
-
-<details>
-<summary>☁️ Cloud & Database</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-</details>
-
-## 📈 GitHub Analytics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranadas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
