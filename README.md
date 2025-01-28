@@ -31,7 +31,7 @@
 </div>
 
 ### 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=aloagnm26yso1g4b6kvfbjvdq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🚀 Featured Projects
 
@@ -40,14 +40,17 @@
 projects = {
     "PyTorch_Segmentation": {
         "tech": ["PyTorch", "Computer Vision"],
-        "description": "Advanced image segmentation models with PyTorch"
+        "description": "Advanced image segmentation models with PyTorch",
+        "highlight": "Implementation of state-of-the-art segmentation architectures"
     },
     "Object_Detection_AngleCalculation_Yolo_CV": {
         "tech": ["YOLO", "OpenCV", "Python"],
-        "description": "Object detection with angle calculation using YOLO"
+        "description": "Object detection with angle calculation using YOLO",
+        "highlight": "Real-time object detection with angle measurement"
     },
     "ImageNet_Transfer_Learning": {
         "tech": ["Deep Learning", "Transfer Learning"],
-        "description": "Transfer learning implementations on ImageNet"
+        "description": "Transfer learning implementations on ImageNet",
+        "highlight": "Fine-tuning pre-trained models for custom tasks"
     }
 }
