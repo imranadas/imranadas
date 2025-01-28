@@ -173,14 +173,6 @@
 
 </details>
 
-### 🎮 Gaming
-```python
-gaming_profiles = {
-    "Steam": "entropy_gg",
-    "Riot Games": "EntropYgg #FRAGR",
-    "Snapchat": "imranadas"
-}
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rana-das-93a773191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
