@@ -30,28 +30,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranadas&theme=radical&hide_border=false&layout=compact" />
 </div>
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imranadas&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🎵 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aloagnm26yso1g4b6kvfbjvdq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 Featured Projects
 
-### 🌟 Key Projects
+#### Computer Vision & AI
 ```python
 projects = {
-    "🤖 The Humanoid Project": "AI & Perception Subsystem Lead",
-    "🔬 Cancer Cell Segmentation": "Computer Vision | PyTorch",
-    "🧠 Multi-Layer Perceptron": "Built from Scratch | MNIST Dataset",
-    "🎮 Collide Physics Engine": "SDL2 | C++",
-    "🔒 Password Manager": "Cryptography | C++",
-    "💾 Interactive DBMS": "Python | MySQL"
+    "PyTorch_Segmentation": {
+        "tech": ["PyTorch", "Computer Vision"],
+        "description": "Advanced image segmentation models with PyTorch"
+    },
+    "Object_Detection_AngleCalculation_Yolo_CV": {
+        "tech": ["YOLO", "OpenCV", "Python"],
+        "description": "Object detection with angle calculation using YOLO"
+    },
+    "ImageNet_Transfer_Learning": {
+        "tech": ["Deep Learning", "Transfer Learning"],
+        "description": "Transfer learning implementations on ImageNet"
+    }
 }
