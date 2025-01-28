@@ -195,10 +195,78 @@
 ### ⭐️ From [imranadas](https://github.com/imranadas)
 </div>
 
-<!--
-Fun Facts:
-- 🎮 Avid gamer and tech enthusiast
-- 🤖 Working on making robots more human-like
-- 🌱 Always learning new technologies
-- 📚 Love to share knowledge and mentor others
--->
+### 🎮 Gaming & Entertainment
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Steam Profile</h3>
+      <div align="center">
+        <a href="https://steamcommunity.com/id/entropy_gg">
+          <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+          <br>
+          <b>entropy_gg</b>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/CS2-Active-success?style=flat&logo=counter-strike&logoColor=white" />
+          <img src="https://img.shields.io/badge/VAC-Clean-success?style=flat&logo=steam&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Riot Games</h3>
+      <div align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
+          <br>
+          <b>EntropYgg #FRAGR</b>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/VALORANT-Active-success?style=flat&logo=riot-games&logoColor=white" />
+          <img src="https://img.shields.io/badge/TFT-Casual-yellow?style=flat&logo=riot-games&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Discord</h3>
+      <div align="center">
+        <a href="https://discord.gg/">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+          <br>
+          <b>@entropy_gg</b>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Snapchat</h3>
+      <div align="center">
+        <a href="https://www.snapchat.com/add/imranadas">
+          <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+          <br>
+          <b>imranadas</b>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <details>
+    <summary>🎮 Gaming Setup</summary>
+    <br>
+    
+    🖥️ Hardware:
+    - CPU: Ryzen 7 Series
+    - GPU: RTX 3060
+    - RAM: 32GB DDR4
+    - Monitor: 165Hz
+    
+    🎧 Peripherals:
+    - Mouse: Logitech G Pro
+    - Keyboard: Mechanical RGB
+    - Headset: HyperX Cloud
+    
+  </details>
+</div>
