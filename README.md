@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranadas&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
