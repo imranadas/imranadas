@@ -49,9 +49,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imranadas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranadas&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranadas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranadas&theme=tokyonight" height="170"/>
 
 <br/>
 
@@ -65,9 +65,13 @@
 
 <div align="center">
 
-[![RiskPilot](https://github-readme-stats.vercel.app/api/pin/?username=imranadas&repo=RiskPilot&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/imranadas/RiskPilot)
-
 [![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-risk--pilot--beta.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://risk-pilot-beta.vercel.app)
+&nbsp;
+[![Source](https://img.shields.io/badge/Source-imranadas%2FRiskPilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imranadas/RiskPilot)
+&nbsp;
+![Language](https://img.shields.io/github/languages/top/imranadas/RiskPilot?style=for-the-badge&color=3178C6&logo=typescript&logoColor=white)
+&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/imranadas/RiskPilot?style=for-the-badge&color=58D9F7)
 
 </div>
 
@@ -85,27 +89,44 @@ AI-powered credit intelligence SaaS — processes **CIBIL / Experian / Equifax /
 
 ## Other Projects
 
-<div align="center">
-
-[![Humanoid VisionStack](https://github-readme-stats.vercel.app/api/pin/?username=imranadas&repo=The-Humanoid-Project&theme=tokyonight&hide_border=true)](https://github.com/imranadas/The-Humanoid-Project)
-&nbsp;
-[![PyTorch Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=imranadas&repo=PyTorch_Segmentation&theme=tokyonight&hide_border=true)](https://github.com/imranadas/PyTorch_Segmentation)
-
-[![CE712 Remote Sensing](https://github-readme-stats.vercel.app/api/pin/?username=imranadas&repo=CE712_Predictive_Land_Use_Remote_Sensing&theme=tokyonight&hide_border=true)](https://github.com/imranadas/CE712_Predictive_Land_Use_Remote_Sensing)
-&nbsp;
-[![Clinical Bias Detection](https://github-readme-stats.vercel.app/api/pin/?username=imranadas&repo=Clinical_BiasDetection_Debiasing&theme=tokyonight&hide_border=true)](https://github.com/imranadas/Clinical_BiasDetection_Debiasing)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=imranadas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🤖 <a href="https://github.com/imranadas/The-Humanoid-Project">The Humanoid Project — VisionStack</a></h4>
+Real-time YOLO-based perception stack for humanoid robotics
+<br/><br/>
+<img src="https://img.shields.io/github/stars/imranadas/The-Humanoid-Project?style=flat-square&color=gold&logo=github"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/imranadas/The-Humanoid-Project?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h4>🔬 <a href="https://github.com/imranadas/PyTorch_Segmentation">PyTorch Segmentation</a></h4>
+Semantic segmentation pipeline for custom vision datasets
+<br/><br/>
+<img src="https://img.shields.io/github/stars/imranadas/PyTorch_Segmentation?style=flat-square&color=gold&logo=github"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/imranadas/PyTorch_Segmentation?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🛰️ <a href="https://github.com/imranadas/CE712_Predictive_Land_Use_Remote_Sensing">CE712 Predictive Remote Sensing</a></h4>
+Geospatial ML for urban land-use prediction
+<br/><br/>
+<img src="https://img.shields.io/github/stars/imranadas/CE712_Predictive_Land_Use_Remote_Sensing?style=flat-square&color=gold&logo=github"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/imranadas/CE712_Predictive_Land_Use_Remote_Sensing?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h4>⚕️ <a href="https://github.com/imranadas/Clinical_BiasDetection_Debiasing">Clinical Bias Detection</a></h4>
+Bias analysis and mitigation in healthcare AI datasets
+<br/><br/>
+<img src="https://img.shields.io/github/stars/imranadas/Clinical_BiasDetection_Debiasing?style=flat-square&color=gold&logo=github"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/imranadas/Clinical_BiasDetection_Debiasing?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 ---
 
