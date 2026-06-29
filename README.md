@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Das&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Lead%20%7C%20Computer%20Vision%20%26%20Robotics%20%7C%20IIT%20Bombay&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rana+Das&fontSize=52&fontColor=fff&fontAlignY=38" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=800&color=58D9F7&center=true&vCenter=true&width=750&lines=Perception+%E2%80%A2+Learning+%E2%80%A2+Autonomy;Building+AI+that+sees%2C+thinks%2C+and+acts+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+Real-Time+Robotics;From+Research+to+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -154,7 +154,7 @@ Bias analysis and mitigation in healthcare AI datasets
 
 | Game | Details |
 |---|---|
-| **CS2** | 1,612 hrs · **FACEIT Level 10** · KovaaK's grinder · ESL & Fnatic communities |
+| **CS2** | ~6,000 hrs · **FACEIT Level 10** · KovaaK's |
 | **Valorant** | **Immortal 3** · [EntropYgg#IWNL — tracker.gg](https://tracker.gg/valorant/profile/riot/EntropYgg%23IWNL) |
 | **Systems / RE** | Built a userspace CS2 radar overlay (process memory reader + 2D render) — [dedicated test account](https://steamcommunity.com/id/VAC_enjoyer_1337/) got the VAC badge it deserved |
 
